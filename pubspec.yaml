@@ -1,0 +1,137 @@
+name: ward
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.6
+  video_player: ^2.8.7
+  font_awesome_flutter: ^10.7.0
+  google_nav_bar: ^5.0.6
+  iconsax: ^0.0.8
+  firebase_core: ^3.4.0
+  cloud_firestore: ^5.4.0
+  dotted_border: ^2.1.0
+  http: ^1.2.2
+  flutter_gemini: ^2.0.5
+  image_picker: ^1.1.2
+  dash_chat_2: ^0.0.21
+  firebase_auth: ^5.2.0
+  google_sign_in: ^6.2.1
+  intl_phone_field: ^3.2.0
+  pinput: ^5.0.0
+  internet_connection_checker: ^1.0.0+1
+  smooth_page_indicator: ^1.2.0+3
+  cached_network_image: ^3.4.1
+  file_picker: ^8.1.2
+  intl_phone_number_input: ^0.7.4
+  auto_size_text: ^3.0.0
+  timezone: ^0.9.4
+  flutter_spinner_time_picker: ^0.2.1
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^3.0.0
+
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/videos/202406151630.mp4
+    - assets/images/CatList/1000_F_55994586_z3dREaHSSuiW2juStZqtVWuoQ9PRaAEP.jpg
+    - assets/images/CatList/1000_F_76616863_Gv7UsKWbDoTP6llFKybLZvx36ZTqnptt.png
+    - assets/images/CatList/1000_F_86872936_23YoHYusPBqnPJ0TwnWhCsUHGj9311pu.jpg
+    - assets/images/CatList/1000_F_152410873_OaWS4S7LxY9Q9N2kaqjCG9r4O4VKfriu.jpg
+    - assets/images/CatList/1000_F_206369978_HwIBqOURBw8IKloXR4HbwnwlsmyCBYZJ (1).png
+    - assets/images/CatList/1000_F_181895631_ioQ5FaVWgAveSrO51IUh86BSbX2VT5p2 (1).jpg
+    - assets/images/CatList/daisy-extract.png
+    - assets/images/CatList/1000_F_41068624_RMCcPAWk2CYfmy04fpTanZNx7vOg0h8H(1).png
+    - assets/images/CatList/cat1-removebg-preview.png
+    - assets/images/GettingStarted/homeListView/1703696590658c58ce7d5c95.webp
+    - assets/images/GettingStarted/homeListView/hands-agronomistresearcher-closeup-he-examines-260nw-2236643375.png
+    - assets/images/GettingStarted/homeListView/9d2ae850bc902da36a51d2cbf3.jpg
+    - assets/images/GettingStarted/container1/img1.png
+    - assets/images/GettingStarted/container1/img2.png
+    - assets/images/GettingStarted/container1/img3.png
+    - assets/images/GettingStarted/container1/img4.png
+    - assets/images/GettingStarted/container1/img5.png
+    - assets/images/GettingStarted/container2/img2.1.png
+    - assets/images/GettingStarted/container2/img2.2.png
+    - assets/images/GettingStarted/container2/img2.3.png
+    - assets/images/GettingStarted/container2/img2.4.png
+    - assets/images/GettingStarted/container2/img2.5.png
+    - assets/images/GettingStarted/container2/img2.6.png
+    - assets/images/9038324.png
+    - assets/images/icons8-clock-375.png
+    - assets/images/img2-1.png
+    - assets/images/img2-2.png
+    - assets/images/img_2-3.png
+    - assets/images/9038218.png
+    - assets/images/img1.png
+    - assets/images/15675864.png
+    - assets/images/5865576.jpg
+    - assets/images/no image found.png
+    - assets/images/plants_details_icons/8044448.png
+    - assets/images/plants_details_icons/3849677.png
+    - assets/images/plants_details_icons/5611083.png
+    - assets/images/plants_details_icons/4260528.png
+    - assets/images/plants_details_icons/5991492.png
+    - assets/images/plants_details_icons/9137274.png
+    - assets/images/plants_details_icons/226479.png
+    - assets/images/plants_details_icons/9571756.png
+    - assets/images/plants_details_icons/2813955.png
+    - assets/images/plants_details_icons/292493.png
+    - assets/images/plants_details_icons/8892701.png
+    - assets/images/plants_details_icons/5811652.png
+    - assets/images/plants_details_icons/4850385.png
+    - assets/images/plants_details_icons/12898687.png
+    - assets/images/plants_details_icons/1574993.png
+    - assets/images/plants_details_icons/14293500.png
+    - assets/images/plants_details_icons/humidity_percentage_25dp_E8EAED_FILL0_wght400_GRAD0_opsz24.png
+    - assets/images/plants_details_icons/icons8-ground-50.png
+    - assets/images/plants_details_icons/icons8-test-tube-100.png
+    - assets/images/CommonDiseases/Anthracnose46.jpg
+    - assets/images/CommonDiseases/cercospora_hydrangea-1024x766_1200x600_crop_center.webp
+    - assets/images/CommonDiseases/hot-to-prevent-root-rot.jpg
+    - assets/images/CommonDiseases/orange-rust-berry.jpg
+    - assets/images/CommonDiseases/potato-blight.jpg
+    - assets/images/water-spray.png
+    - assets/images/manure.png
+    - assets/images/caution.png
+
+
+  fonts:
+    - family: Ubuntu
+      fonts:
+        - asset: assets/fonts/Ubuntu-Medium.ttf
+    - family: Tajawal
+      fonts:
+        - asset: assets/fonts/Tajawal-Regular.ttf
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
+    - family: OpenSans
+      fonts:
+        - asset: assets/fonts/OpenSans-VariableFont_wdth,wght.ttf
+
+

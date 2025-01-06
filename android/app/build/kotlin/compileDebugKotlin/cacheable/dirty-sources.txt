@@ -1,0 +1,1 @@
+C:\Users\TRUST\StudioProjects\ward\android\app\src\main\kotlin\com\example\ward\MainActivity.kt
