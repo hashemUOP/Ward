@@ -1,7 +1,6 @@
 ![WhatsApp Image 2026-01-13 at 6 37 21 PM](https://github.com/user-attachments/assets/3c9a3ef0-21a3-47ab-9c15-86c4fcad3375)# Ward
 Ward is a Mobile application developed using Flutter for the frontend,Firebase (Auth & DB), and Django (REST) for the backend, and AI model for plant type and diseases detection.
-![WhatsApp Image 2026-01-13 at 6 37 22 PM (2)](https://github.com/user-attachments/assets/e1012640-6ea7-4af4-bd94-796d1f4e2e93)![WhatsApp Image 2026-01-13 at 6 37 28 PM (5)](https://github.com/user-attachments/assets/18a5c20c-110e-43bd-adfc-f050d6e20ebc)
-![WhatsApp Image 2026-01-13 at 6 37 28 PM (4)](https://github.com/user-attachments/assets/f5ce59e4-c6b0-4356-9edf-3cf0dbb4e2d8)
+![WhatsApp Image 2026-01-13 at 6 37 22 PM (2)](https://github.com/user-attachments/assets/e1012640-6ea7-4af4-bd94-796d1f4e2e93)![WhatsApp Image 2026-01-13 at 6 37 28 PM (5)](https://github.com/user-attachments/assets/18a5c20c-110e-43bd-adfc-f050d6e20ebc)![WhatsApp Image 2026-01-13 at 6 37 28 PM (4)](https://github.com/user-attachments/assets/f5ce59e4-c6b0-4356-9edf-3cf0dbb4e2d8)
 ![WhatsApp Image 2026-01-13 at 6 37 28 PM (3)](https://github.com/user-attachments/assets/8baf62ed-9db5-4643-ac0e-6ae8f19f859f)
 ![WhatsApp Image 2026-01-13 at 6 37 28 PM (2)](https://github.com/user-attachments/assets/b39a575f-a724-47d6-8a91-a5654f798320)
 ![WhatsApp Image 2026-01-13 at 6 37 28 PM (1)](https://github.com/user-attachments/assets/6ea34032-bc0c-44dd-b0e8-e843d01e0478)
