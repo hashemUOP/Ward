@@ -47,7 +47,9 @@ Ward is a Mobile application developed using **Flutter** for the frontend, **Fir
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/d4861a8c-0014-4c78-8d33-b599fedbac82" width="100%"></td>
-    <td></td>
-    <td></td>
+    <td><img src="https://github.com/user-attachments/assets/f6deded3-4849-4cbe-92f1-e68965d50546" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/6a93df0d-0c05-44a3-9c44-c86454177eb1" width="100%"></td>
   </tr>
+
+
 </table>
